@@ -34,7 +34,6 @@ contourpy
 cross
 crypto
 cryptography
-cupshelpers
 cycler
 Cython
 dacite
