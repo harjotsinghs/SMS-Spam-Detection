@@ -138,11 +138,7 @@ phik
 pickleshare
 Pillow
 platformdirs
-playsound
 plotly
-prometheus-client
-prompt-toolkit
-protobuf
 psutil
 ptyprocess
 pure-eval
