@@ -188,8 +188,6 @@ tensorrt-bindings
 toml
 typeguard
 typing_extensions
-tzdata
-ufw
 unattended-upgrades
 uri-template
 urllib3
