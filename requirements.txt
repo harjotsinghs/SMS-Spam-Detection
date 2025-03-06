@@ -178,9 +178,6 @@ SQLAlchemy
 stack-data
 statsmodels
 streamlit
-systemd-python
-tangled-up-in-unicode
-tenacity
 tensorboard
 tensorboard-data-server
 tensorflow
