@@ -20,7 +20,6 @@ bcrypt
 beautifulsoup4
 bleach
 blinker
-Brlapi
 cachetools
 certifi
 cffi
@@ -31,7 +30,6 @@ cmake
 colorama
 colorlog
 comm
-command-not-found
 contourpy
 cross
 crypto
