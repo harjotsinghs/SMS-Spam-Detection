@@ -7,7 +7,6 @@ altair
 altgraph
 annotated-types
 anyio
-apturl
 argon2-cffi
 argon2-cffi-bindings
 arrow
